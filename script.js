@@ -1,1 +1,7 @@
- console.log ('hello! from VS Code!!!')
+function setup () {
+    createCanvas (400, 400)
+}
+
+function draw () {
+    background (`pink`)
+}
